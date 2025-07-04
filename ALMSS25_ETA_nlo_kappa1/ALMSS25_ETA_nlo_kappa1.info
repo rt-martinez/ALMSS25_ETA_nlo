@@ -1,9 +1,9 @@
- SetDesc: "ALMSS25_ETA_nlo"
+ SetDesc: "ALMSS25_ETA_nlo_kappa1"
  Authors: C. Aidala, D. Loomis, R. T. Martinez, R. Sassot, M. Stratmann
  Reference: ArXiv:2411.08222
  Format: lhagrid1
  DataVersion: 1
- NumMembers:         301
+ NumMembers:           1
  Particle: 2212
  Flavors: [ -5, -4, -3, -2, -1, 21,  1,  2,  3,  4,  5]
  OrderQCD:           1
@@ -21,9 +21,6 @@
  MCharm:   1.3999999999999999     
  MBottom:   4.7500000000000000     
  MTop:   175.00000000000000     
- ThresholdCharm:   1.3999999999999999     
- ThresholdBottom:   4.7500000000000000     
- ThresholdTop:   319.22776285456024     
  AlphaS_MZ:  0.49127999999999999     
  AlphaS_OrderQCD:           1
  AlphaS_Type: ipol
