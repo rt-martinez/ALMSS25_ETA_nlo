@@ -4,7 +4,7 @@
  Format: lhagrid1
  DataVersion: 1
  NumMembers:         301
- Particle: 2212
+ Particle: 221
  Flavors: [ -5, -4, -3, -2, -1, 21,  1,  2,  3,  4,  5]
  OrderQCD:           1
  FlavorScheme: variable
